@@ -1,4 +1,4 @@
-# Configurando Acesso e Provisionamento de VLAN
+# Configurando Acesso e Provisionamento de VLAN na OLT Huawey
 
 * Os comandos são:
 
