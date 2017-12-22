@@ -1,1 +1,26 @@
 
+# Comandos para Gerência de OLT
+
+> enable
+
+> config
+
+> display board 0
+
+> board confirm 0
+
+> display board 0
+
+> interface gpon 0/1
+
+> interface meth 0 (É a porta Eth da OLT)
+
+> ip address X.X.X.X Y.Y.Y.Y description "GERENCIA" (X.X.X.X é o IP e Y.Y.Y.Y É A MÁSCARA)
+
+> quit
+
+> ip route-static 0.0.0.0 0.0.0.0 X.X.X.X (X.X.X.X é o Gateway)
+
+> sysman service ssh enable (habilita porta SSH)
+
+> sysman service telnet enable (habilita porta telnet)
