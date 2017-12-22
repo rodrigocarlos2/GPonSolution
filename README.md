@@ -1,4 +1,4 @@
-# Configurando Acesso e Provisionamento de VLAN na OLT Huawey
+# Configurando Acesso e Provisionamento de ONU na OLT Huawei
 
 * Os comandos são:
 
