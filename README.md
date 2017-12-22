@@ -2,7 +2,7 @@
 
 * Os comandos são:
 
-> enalbe (acesso para modo privilegiado)
+> enable (acesso para modo privilegiado)
 
 > configure (pode realizar configurações)
 
