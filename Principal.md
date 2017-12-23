@@ -69,6 +69,8 @@ Pelo que Leandro falou, eu entendi que clientes que tem maior consumo poderiam g
 * ont-srvprofile gpon profile-id X profile-name "Y" (X é o ID do srvprofile-id que você cria. Você pode escolher o srvprofile-id 
 que quiser, entretanto, deve ser diferente para cada modelo. "Y" é o nome do modelo da placa).
 
+* ont-port eth 1 (declarar quais portas da ONT).
+
 * A Virtex trabalha com três modelos de ONUs: uma de 1 porta ethernet e uma fxo (que você adiciona usando pots).
 
 * Agora, você deve habilitar portas dessa ONU. Se a ONU tiver diversas portas, diversas portas devem ser adicionadas.
