@@ -61,7 +61,9 @@
 
 * quit
 
-# Dedicando dba-profile, srv-profile e line-profile
+# Dedicando dba-profile, srvprofile e lineprofile
+
+# srvprofile é usado para declarar as portas da ONT e como vai trabalhar (VLAN).
 
 * dba-profile add type4 max 102400 (Garantia de largura de banda de 102400. Isso é importante para manter a disputa justa dos clientes.
 Pelo que Leandro falou, eu entendi que clientes que tem maior consumo poderiam ganhar banda de clientes com menores consumo).
